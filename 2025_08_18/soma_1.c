@@ -9,7 +9,7 @@ long int soma (){
 	return (x+y);
 	}
 	
-	int main (long int a, b){
+	int main (long int a, long int b){
 	a = 4;
 	b = 5;
 	b = soma();
